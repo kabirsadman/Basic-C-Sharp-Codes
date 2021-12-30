@@ -1,0 +1,8 @@
+E:\C#\loops and others\loops and others\bin\Debug\loops and others.exe.config
+E:\C#\loops and others\loops and others\bin\Debug\loops and others.exe
+E:\C#\loops and others\loops and others\bin\Debug\loops and others.pdb
+E:\C#\loops and others\loops and others\obj\Debug\loops and others.csproj.AssemblyReference.cache
+E:\C#\loops and others\loops and others\obj\Debug\loops and others.csproj.SuggestedBindingRedirects.cache
+E:\C#\loops and others\loops and others\obj\Debug\loops and others.csproj.CoreCompileInputs.cache
+E:\C#\loops and others\loops and others\obj\Debug\loops and others.exe
+E:\C#\loops and others\loops and others\obj\Debug\loops and others.pdb

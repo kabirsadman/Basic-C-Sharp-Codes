@@ -1,0 +1,8 @@
+E:\C#\Hypotenuse\Hypotenuse\bin\Debug\Hypotenuse.exe.config
+E:\C#\Hypotenuse\Hypotenuse\bin\Debug\Hypotenuse.exe
+E:\C#\Hypotenuse\Hypotenuse\bin\Debug\Hypotenuse.pdb
+E:\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.csproj.AssemblyReference.cache
+E:\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.csproj.SuggestedBindingRedirects.cache
+E:\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.csproj.CoreCompileInputs.cache
+E:\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.exe
+E:\C#\Hypotenuse\Hypotenuse\obj\Debug\Hypotenuse.pdb

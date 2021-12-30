@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00bf39d3-e452-41d3-8cb5-7ae667620c20": {
+      "ProjectGuid": "00bf39d3-e452-41d3-8cb5-7ae667620c20",
+      "DisplayName": "Girrafe",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

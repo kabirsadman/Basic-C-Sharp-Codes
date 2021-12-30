@@ -1,0 +1,8 @@
+E:\C#\Girrafe\Girrafe\bin\Debug\Girrafe.exe.config
+E:\C#\Girrafe\Girrafe\bin\Debug\Girrafe.exe
+E:\C#\Girrafe\Girrafe\bin\Debug\Girrafe.pdb
+E:\C#\Girrafe\Girrafe\obj\Debug\Girrafe.csproj.AssemblyReference.cache
+E:\C#\Girrafe\Girrafe\obj\Debug\Girrafe.csproj.SuggestedBindingRedirects.cache
+E:\C#\Girrafe\Girrafe\obj\Debug\Girrafe.csproj.CoreCompileInputs.cache
+E:\C#\Girrafe\Girrafe\obj\Debug\Girrafe.exe
+E:\C#\Girrafe\Girrafe\obj\Debug\Girrafe.pdb

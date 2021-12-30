@@ -1,0 +1,8 @@
+E:\C#\Statement\Statement\bin\Debug\Statement.exe.config
+E:\C#\Statement\Statement\bin\Debug\Statement.exe
+E:\C#\Statement\Statement\bin\Debug\Statement.pdb
+E:\C#\Statement\Statement\obj\Debug\Statement.csproj.AssemblyReference.cache
+E:\C#\Statement\Statement\obj\Debug\Statement.csproj.SuggestedBindingRedirects.cache
+E:\C#\Statement\Statement\obj\Debug\Statement.csproj.CoreCompileInputs.cache
+E:\C#\Statement\Statement\obj\Debug\Statement.exe
+E:\C#\Statement\Statement\obj\Debug\Statement.pdb
