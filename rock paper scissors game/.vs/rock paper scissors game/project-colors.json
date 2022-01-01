@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcb0c52e-6abb-412c-8af5-31b56d5c49a7": {
+      "ProjectGuid": "dcb0c52e-6abb-412c-8af5-31b56d5c49a7",
+      "DisplayName": "rock paper scissors game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

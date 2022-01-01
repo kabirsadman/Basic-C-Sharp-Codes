@@ -1,0 +1,8 @@
+E:\C#\rock paper scissors game\rock paper scissors game\bin\Debug\rock paper scissors game.exe.config
+E:\C#\rock paper scissors game\rock paper scissors game\bin\Debug\rock paper scissors game.exe
+E:\C#\rock paper scissors game\rock paper scissors game\bin\Debug\rock paper scissors game.pdb
+E:\C#\rock paper scissors game\rock paper scissors game\obj\Debug\rock paper scissors game.csproj.AssemblyReference.cache
+E:\C#\rock paper scissors game\rock paper scissors game\obj\Debug\rock paper scissors game.csproj.SuggestedBindingRedirects.cache
+E:\C#\rock paper scissors game\rock paper scissors game\obj\Debug\rock paper scissors game.csproj.CoreCompileInputs.cache
+E:\C#\rock paper scissors game\rock paper scissors game\obj\Debug\rock paper scissors game.exe
+E:\C#\rock paper scissors game\rock paper scissors game\obj\Debug\rock paper scissors game.pdb
