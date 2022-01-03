@@ -1,0 +1,8 @@
+E:\C#\method\method\bin\Debug\method.exe.config
+E:\C#\method\method\bin\Debug\method.exe
+E:\C#\method\method\bin\Debug\method.pdb
+E:\C#\method\method\obj\Debug\method.csproj.AssemblyReference.cache
+E:\C#\method\method\obj\Debug\method.csproj.SuggestedBindingRedirects.cache
+E:\C#\method\method\obj\Debug\method.csproj.CoreCompileInputs.cache
+E:\C#\method\method\obj\Debug\method.exe
+E:\C#\method\method\obj\Debug\method.pdb
