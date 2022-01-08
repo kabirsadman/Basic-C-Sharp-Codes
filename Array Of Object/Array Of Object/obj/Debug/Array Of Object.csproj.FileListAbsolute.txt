@@ -1,0 +1,8 @@
+E:\C#\Array Of Object\Array Of Object\bin\Debug\Array Of Object.exe.config
+E:\C#\Array Of Object\Array Of Object\bin\Debug\Array Of Object.exe
+E:\C#\Array Of Object\Array Of Object\bin\Debug\Array Of Object.pdb
+E:\C#\Array Of Object\Array Of Object\obj\Debug\Array Of Object.csproj.AssemblyReference.cache
+E:\C#\Array Of Object\Array Of Object\obj\Debug\Array Of Object.csproj.SuggestedBindingRedirects.cache
+E:\C#\Array Of Object\Array Of Object\obj\Debug\Array Of Object.csproj.CoreCompileInputs.cache
+E:\C#\Array Of Object\Array Of Object\obj\Debug\Array Of Object.exe
+E:\C#\Array Of Object\Array Of Object\obj\Debug\Array Of Object.pdb
