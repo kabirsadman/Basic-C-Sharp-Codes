@@ -1,0 +1,8 @@
+E:\C#\Objects as arguments\Objects as arguments\bin\Debug\Objects as arguments.exe.config
+E:\C#\Objects as arguments\Objects as arguments\bin\Debug\Objects as arguments.exe
+E:\C#\Objects as arguments\Objects as arguments\bin\Debug\Objects as arguments.pdb
+E:\C#\Objects as arguments\Objects as arguments\obj\Debug\Objects as arguments.csproj.AssemblyReference.cache
+E:\C#\Objects as arguments\Objects as arguments\obj\Debug\Objects as arguments.csproj.SuggestedBindingRedirects.cache
+E:\C#\Objects as arguments\Objects as arguments\obj\Debug\Objects as arguments.csproj.CoreCompileInputs.cache
+E:\C#\Objects as arguments\Objects as arguments\obj\Debug\Objects as arguments.exe
+E:\C#\Objects as arguments\Objects as arguments\obj\Debug\Objects as arguments.pdb
