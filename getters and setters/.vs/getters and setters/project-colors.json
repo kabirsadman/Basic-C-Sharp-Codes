@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b177fbf5-61ee-420a-9b77-dbda600e095f": {
+      "ProjectGuid": "b177fbf5-61ee-420a-9b77-dbda600e095f",
+      "DisplayName": "getters and setters",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
