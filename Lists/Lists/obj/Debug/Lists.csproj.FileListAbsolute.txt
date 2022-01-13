@@ -1,0 +1,8 @@
+E:\C#\Lists\Lists\bin\Debug\Lists.exe.config
+E:\C#\Lists\Lists\bin\Debug\Lists.exe
+E:\C#\Lists\Lists\bin\Debug\Lists.pdb
+E:\C#\Lists\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+E:\C#\Lists\Lists\obj\Debug\Lists.csproj.SuggestedBindingRedirects.cache
+E:\C#\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+E:\C#\Lists\Lists\obj\Debug\Lists.exe
+E:\C#\Lists\Lists\obj\Debug\Lists.pdb
